@@ -2,6 +2,7 @@
 # **TROUBLE SOLVER**
 
 A trouble-ticket website designed for the *2023 LTW project* on *LEIC-FEUP*.
+Grade: 19.2/20
 
 <br>
 
