@@ -1,9 +1,13 @@
-[video proj LTW para recordacao 2.webm](https://github.com/FEUP-LTW-2023/project-ltw13g05/assets/92639425/56d42591-fcdb-4aff-900b-7ae0180ebef4)
-
-# **TROUBLE SOLVER**
+# **TROUBLE SOLVER - Web Technologies Lab Project**
 
 A trouble-ticket website designed for the *2023 LTW project* on *LEIC-FEUP*. <br>
 Grade: 19.2/20
+
+<br>
+
+## **Walktrough**
+
+[video proj LTW para recordacao 2.webm](https://github.com/FEUP-LTW-2023/project-ltw13g05/assets/92639425/56d42591-fcdb-4aff-900b-7ae0180ebef4)
 
 <br>
 
